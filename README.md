@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lurt04
-- 👀 I’m interested in Computer Science & Engineering
-- 🌱 I’m currently learning VWO 6
-- 📫 How to reach me ...
+- 👀 I’m interested in OOP
+- 🌱 I’m currently studying Computer Science & Engineering
+
 
 <!---
 lurt04/lurt04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
